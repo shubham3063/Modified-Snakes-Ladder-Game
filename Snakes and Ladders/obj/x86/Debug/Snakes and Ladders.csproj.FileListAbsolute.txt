@@ -1,0 +1,26 @@
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Snakes and Ladders.exe
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Snakes and Ladders.pdb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.exe
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.pdb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\Sprite\cursor.xnb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\Objects\lion.xnb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\Objects\tiger.xnb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\Objects\cheetah.xnb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\Objects\elephant.xnb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\Objects\panther.xnb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\fontType\gameFont.xnb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\gameFont.xnb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\Sprite\player.xnb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\Sprite\cpu.xnb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\Sprite\border.xnb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\Sound\beep8.xnb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Interop.SpeechLib.dll
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\obj\x86\Debug\Snakes and Ladders.csproj.ResolveComReference.cache
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\Sound\Music.xnb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\Sound\Music.wma
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\Sound\applause.xnb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\Sprite\goti.xnb
+C:\Users\SHUBHAM TRIPATHI\Documents\Visual Studio 2008\Projects\Snakes and Ladders\Snakes and Ladders\bin\x86\Debug\Content\Sprite\board4.xnb
